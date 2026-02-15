@@ -2,7 +2,7 @@ import unicodedata
 import time
 import requests as req
 
-URL = "https://banco-de-dados-basico-yago-default-rtdb.firebaseio.com"
+URL = "SUA URL"
 
 
 def normalizar(texto):
